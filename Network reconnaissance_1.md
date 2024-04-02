@@ -1,6 +1,5 @@
 
-### تعالى نتكلم عن ال
-network reconnaissance or network discovery
+### تعالى نتكلم عن ال network reconnaissance or network discovery
 
 الهجوم لما بياجي, بياجي عن طريق الشبكة أو برنامج مصاب
 لما بعمل reconnaissance بكون قادر أعرف الهجوم ممكن ياجيلي منين
