@@ -1,6 +1,8 @@
 ![cover](images/1.png)
 #### Use this link to see the [English version](https://abdrabo-ploit.hashnode.dev/network-reconnaissance) 
 
+<div dir="rtl">
+
 
 # تعالى نتكلم عن ال network reconnaissance or network discovery
 
@@ -37,3 +39,4 @@ Topology discovery (footprinting)
 وبرده في شوية كوماندز تانية بس خاصة بال routing زي
 'route' و 'tracert' على ويندوز و  'traceroute'  على لينكس و  'pathping'
 
+</div>
